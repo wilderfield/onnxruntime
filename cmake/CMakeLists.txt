@@ -87,6 +87,7 @@ option(onnxruntime_USE_NNAPI_BUILTIN "Build with builtin NNAPI lib for Android N
 option(onnxruntime_USE_QNN "Build with QNN support" OFF)
 option(onnxruntime_USE_SNPE "Build with SNPE support" OFF)
 option(onnxruntime_USE_RKNPU "Build with RKNPU support" OFF)
+option(onnxruntime_USE_NPU "Build with NPU support" OFF)
 option(onnxruntime_USE_DNNL "Build with DNNL support" OFF)
 option(onnxruntime_USE_NEURAL_SPEED "Build with Neural Speed support" OFF)
 option(onnxruntime_USE_JSEP "Build with JavaScript implemented kernels support" OFF)
